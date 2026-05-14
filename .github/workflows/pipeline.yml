@@ -18,4 +18,4 @@ jobs:
           python-version: '3.11'
   
       - name: Executar script
-        run: python calculadora.py                    
+        run: python marticula.py                    
